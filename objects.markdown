@@ -4,6 +4,7 @@
 ### Ways to create objects
 
 #### Constructor
+*    + Useful prototype
 *    - "this" reference
 
 #### Singleton (Literal)
